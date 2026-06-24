@@ -34,9 +34,9 @@ Undergraduate student focused on designing, configuring, and securing robust ent
 ---
 
 ### 🚀 What I'm Up To
-* 📚 **Certification:** Actively preparing for the **Cisco Certified Network Associate (CCNA 200-301)** certification.
-* 🛠️ **Current Focus:** Hands-on labs simulating CCNA network topologies, implementing advanced routing (OSPF), VLAN segmentation, Inter-VLAN routing, and Access Control Lists (ACLs).
-* 🔒 **Active Project:** Deploying enterprise-level Active Directory identity infrastructure and GPO security baselines.
+* **Certification:** Actively preparing for the **Cisco Certified Network Associate (CCNA 200-301)** certification.
+* **Current Focus:** Hands-on labs simulating CCNA network topologies, implementing advanced routing (OSPF), VLAN segmentation, Inter-VLAN routing, and Access Control Lists (ACLs).
+* **Active Project:** Deploying enterprise-level Active Directory identity infrastructure and GPO security baselines.
 
 ---
 
