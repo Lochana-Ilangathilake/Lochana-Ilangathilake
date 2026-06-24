@@ -26,10 +26,11 @@ Undergraduate student focused on designing, configuring, and securing robust ent
 ![PowerShell](https://img.shields.io/badge/-PowerShell-53C1DE?style=flat&logo=powershell&logoColor=black)
 
 **Languages, Cloud & Automation** 
+**Languages, Cloud & Automation** 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) 
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![MQTT & HTTP](https://img.shields.io/badge/-MQTT%20%26%20HTTP-00979D?style=flat)
+![Azure](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
+
 
 ---
 
