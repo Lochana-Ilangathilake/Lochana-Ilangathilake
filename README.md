@@ -1,9 +1,9 @@
 <div align="center">
 
 # 👋 Hello, I'm Lochana Ilangathilake  
-### Undergraduate | Information Technology | IoT & Embedded Systems Enthusiast  
+### Network Infrastructure & Security Enthusiast | IT Undergraduate  
 
-Undergraduate student exploring the intersection of hardware and software, with a passion for building intelligent systems and understanding the networking layers that connect them.
+Undergraduate student focused on designing, configuring, and securing robust enterprise network architectures. Actively learning hands-on with routing, switching, and building automated, secure systems infrastructure.
 
 </div>
 
@@ -11,24 +11,32 @@ Undergraduate student exploring the intersection of hardware and software, with 
 
 ### 🛠️ Skills & Technologies
 
-**Languages & Systems** ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) 
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white) 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) 
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white)
+**Networking & Cyber Security** 
+![Cisco Packet Tracer](https://img.shields.io/badge/-Cisco%20Packet%20Tracer-005EA2?style=flat&logo=cisco&logoColor=white) 
+![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-333333?style=flat) 
+![VLAN & Routing](https://img.shields.io/badge/-VLAN%20%26%20Routing-0078D4?style=flat) 
+![Network Security](https://img.shields.io/badge/-Network%20Security-E23237?style=flat) 
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 
-**Cloud & Backend** ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
+**Systems & Infrastructure** 
+![Windows Server](https://img.shields.io/badge/-Windows%20Server-0078D4?style=flat&logo=windows-server&logoColor=white) 
+![Active Directory](https://img.shields.io/badge/-Active%20Directory%20(AD%20DS)-0078D4?style=flat) 
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) 
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/-PowerShell-53C1DE?style=flat&logo=powershell&logoColor=black)
 
-**Hardware IOT** ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white) 
-![ESP32](https://img.shields.io/badge/-ESP32-E7352C?logo=espressif&logoColor=white) 
-
-**Networking & IT** `TCP/IP` • `MQTT` • `HTTP` • `Network Security` • `Cisco Packet Tracer`
+**Languages, Cloud & Automation** 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) 
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![MQTT & HTTP](https://img.shields.io/badge/-MQTT%20%26%20HTTP-00979D?style=flat)
 
 ---
 
 ### 🚀 What I'm Up To
-* 🛠️ **Currently learning:** Embedded Systems, Computer Networks, and Cloud Computing.
+* 📚 **Certification:** Actively preparing for the **Cisco Certified Network Associate (CCNA 200-301)** certification.
+* 🛠️ **Current Focus:** Hands-on labs simulating CCNA network topologies, implementing advanced routing (OSPF), VLAN segmentation, Inter-VLAN routing, and Access Control Lists (ACLs).
+* 🔒 **Active Project:** Deploying enterprise-level Active Directory identity infrastructure and GPO security baselines.
 
 ---
 
@@ -38,7 +46,6 @@ Undergraduate student exploring the intersection of hardware and software, with 
 </p>
 
 ---
-
 
 <p align="center">
 <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
