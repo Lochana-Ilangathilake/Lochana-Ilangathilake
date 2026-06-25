@@ -11,22 +11,21 @@ Undergraduate student focused on designing, configuring, and securing robust ent
 
 ### Skills & Technologies
 
-**Networking & Cyber Security** 
+**Networking and Cyber Security** 
 ![Cisco Packet Tracer](https://img.shields.io/badge/-Cisco%20Packet%20Tracer-005EA2?style=flat&logo=cisco&logoColor=white) 
 ![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-333333?style=flat) 
 ![VLAN & Routing](https://img.shields.io/badge/-VLAN%20%26%20Routing-0078D4?style=flat) 
 ![Network Security](https://img.shields.io/badge/-Network%20Security-E23237?style=flat) 
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 
-**Systems & Infrastructure** 
+**Systems Infrastructure** 
 ![Windows Server](https://img.shields.io/badge/-Windows%20Server-0078D4?style=flat&logo=windows-server&logoColor=white) 
 ![Active Directory](https://img.shields.io/badge/-Active%20Directory%20(AD%20DS)-0078D4?style=flat) 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) 
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-53C1DE?style=flat&logo=powershell&logoColor=black)
 
-**Languages, Cloud & Automation** 
-**Languages, Cloud & Automation** 
+**Languages, Cloud and Automation** 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) 
 ![Azure](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
@@ -36,7 +35,7 @@ Undergraduate student focused on designing, configuring, and securing robust ent
 
 ### What I'm Up To
 * **Certification:** Actively preparing for the **Cisco Certified Network Associate (CCNA 200-301)** certification.
-* **Current Focus:** Hands-on labs simulating CCNA network topologies, VLAN segmentation, Inter-VLAN routing, and Access Control Lists (ACLs).
+* **Current Focus:** Hands on labs simulating CCNA network topologies, VLAN segmentation, Inter-VLAN routing, and Access Control Lists (ACLs).
 ---
 
 ### GitHub Stats
